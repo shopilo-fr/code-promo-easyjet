@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-easyjet",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo easyJet depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-easyjet",
+    "bon-de-reduction-easyjet",
+    "coupon-easyjet",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/easyjet.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-easyjet.git"
+  }
+}
